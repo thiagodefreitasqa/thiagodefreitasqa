@@ -32,5 +32,3 @@ A lista a seguir possui algumas tecnologias que utilizei durante a faculdade ou 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garciafreitas&theme=graywhite&count_private=true&hide=contribs&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosperotto&layout=compact&hide=html,css,JavaScript,Batchfile,ApacheConf)](https://github.com/garciafreitas)
-  
-![Snake animation](https://github.com/garciafreitas/garciafreitas/blob/output/github-contribution-grid-snake.svg)
