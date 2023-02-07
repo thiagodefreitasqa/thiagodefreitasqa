@@ -18,6 +18,7 @@ A lista a seguir possui algumas tecnologias que utilizei durante a faculdade ou 
 
 <p align="center">
 
+![image](https://img.shields.io/badge/VSCode-430098?style=for-the-badge&logo=heroku&logoColor=white)  
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
@@ -27,7 +28,9 @@ A lista a seguir possui algumas tecnologias que utilizei durante a faculdade ou 
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Cypress-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garciafreitas&theme=graywhite&count_private=true&hide=contribs&hide_border=true)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosperotto&layout=compact&hide=html,css,JavaScript,Batchfile,ApacheConf)](https://github.com/garciafreitas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosperotto&layout=compact&hide=html,css,JavaScript,Batchfile,ApacheConf)](https://github.com/garciafreitas)
+  
+
