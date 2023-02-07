@@ -29,6 +29,6 @@ A lista a seguir possui algumas tecnologias que utilizei durante a faculdade ou 
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/Cypress-430098?style=for-the-badge&logo=heroku&logoColor=white)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagodefreitasqa&theme=graywhite&count_private=true&hide=contribs&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garciafreitas&theme=graywhite&count_private=true&hide=contribs&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodefreitasqa&layout=compact&hide=html,css,JavaScript,Batchfile,ApacheConf)](https://github.com/garciafreitas)
