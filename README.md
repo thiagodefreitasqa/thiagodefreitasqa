@@ -14,7 +14,7 @@ Formado em Ciência da Computação pelo Instituto Federal de Santa Catarina (IF
 
 ### Linguagens e ferramentas
 
-A lista a seguir possui algumas tecnologias que utilizei durante a faculdade ou de forma pontual algum projeto:
+A lista a seguir possui algumas tecnologias que utilizei durante a faculdade ou de forma pontual em algum projeto:
 
 <p align="center">
 
@@ -31,4 +31,4 @@ A lista a seguir possui algumas tecnologias que utilizei durante a faculdade ou 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garciafreitas&theme=graywhite&count_private=true&hide=contribs&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodefreitasqa&layout=compact&hide=html,css,JavaScript,Batchfile,ApacheConf)](https://github.com/thiagodefreitasqa)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodefreitasqa&layout=compact&hide=html,css,JavaScript,Batchfile,ApacheConf)](https://github.com/thiagodefreitasqa)-->
