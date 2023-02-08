@@ -31,4 +31,4 @@ A lista a seguir possui algumas tecnologias que utilizei durante a faculdade ou 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagodefreitasqa&theme=graywhite&count_private=true&hide=contribs&hide_border=true)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodefreitasqa&layout=compact&hide=html,css,JavaScript,Batchfile,ApacheConf)](https://github.com/thiagodefreitasqa)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodefreitasqa&layout=compact&hide=html,css,JavaScript,Batchfile,ApacheConf)](https://github.com/thiagodefreitasqa)
