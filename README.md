@@ -19,7 +19,7 @@ A lista a seguir possui algumas tecnologias que utilizei durante a faculdade ou 
 <p align="center">
 
 ![image](https://img.shields.io/badge/VSCode-430098?style=for-the-badge&logo=heroku&logoColor=white)  
-![image](https://img.shields.io/badge/Cypress-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![image](https://img.shields.io/badge/Cypress-430048?style=for-the-badge&logo=heroku&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
