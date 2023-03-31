@@ -2,7 +2,11 @@ thiagodefreitasqa/README.md
 # Olá, me chamo Thiago!
 ___
 
-Formado em Ciência da Computação pelo Instituto Federal de Santa Catarina (IFSC) e também em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Internacional Uninter. Trabalho como Analista de Qualidade.  Com experiência em rotinas de testes de software manuais em aplicações Front-End e Back-End. Prática no entendimento e na escrita de cenários de testes no formato Behavior driven development (desenvolvimento guiado por comportamento ou desenvolvimento) - BDD. Vivência em metodologias de desenvolvimento de projetos de software (Scrum, Kanban). Além de experiência com automação de testes de software utilizando Cypress.
+- Sou um Analista de Testes Automatizados (ou QA - Quality Assurance) com experiência em Qualidade de Software. Comecei minha jornada em TI como Atendente de Telemarketing em uma empresa de tecnologia em Lages, onde tive a oportunidade de conhecer diversas áreas de atuação, incluindo a Qualidade de Software.Graduado em Ciência da Computação pelo Instituto Federal de Santa Catarina (IFSC) e possuo formação tecnológica em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Internacional Uninter.
+
+- Minha missão é trabalhar para reforçar a imagem institucional da corporação. Acredito que um trabalho realizado com foco na qualidade reflete a segurança e confiança que a empresa merece, valorizando a qualidade e eficiência em todos os processos e níveis. Além da minha formação acadêmica, possuo experiência em testes automatizados utilizando ferramentas como Cypress e Postman. Tenho conhecimento em padrões de escrita como: Behavior driven development (desenvolvimento guiado por comportamento) BDD, além de trabalhar com metodologias ágeis, como os frameworks Scrum e Kanban, acredito que o conhecimento em UI e UX são cruciais para a melhoria contínua e busca pela excelência do produto, considerando sempre a experiência do usuário final.
+
+- Acredito que a busca por conhecimento é fundamental para o crescimento pessoal e profissional, e tenho como objetivo contribuir para o sucesso da empresa em que atuo, garantindo a qualidade dos produtos e serviços entregues.
 
 
 ### Contatos
@@ -14,12 +18,13 @@ Formado em Ciência da Computação pelo Instituto Federal de Santa Catarina (IF
 
 ### Linguagens e ferramentas
 
-A lista a seguir possui algumas tecnologias que utilizei durante a faculdade ou de forma pontual em algum projeto:
+A lista a seguir possui algumas tecnologias que utilizei durante a faculdade ou de forma pontual em algum projeto profissional:
 
 <p align="center">
 
 ![image](https://img.shields.io/badge/VSCode-430098?style=for-the-badge&logo=heroku&logoColor=white)  
 ![image](https://img.shields.io/badge/Cypress-430048?style=for-the-badge&logo=heroku&logoColor=white)
+![image](https://img.shields.io/badge/Postman-430048?style=for-the-badge&logo=heroku&logoColor=orange)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
