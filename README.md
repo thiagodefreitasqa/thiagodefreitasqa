@@ -31,6 +31,6 @@ A lista a seguir possui algumas tecnologias que utilizei durante a faculdade ou 
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagodefreitasqa&theme=graywhite&count_private=true&hide=contribs&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagodefreitasqa&theme=dracula&count_private=true&hide_border=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodefreitasqa&layout=compact&hide=html,css,JavaScript,Batchfile,ApacheConf)](https://github.com/thiagodefreitasqa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodefreitasqa&layout=compact&count_private=true&show_icons=true&theme=dracula)](https://github.com/thiagodefreitasqa)
