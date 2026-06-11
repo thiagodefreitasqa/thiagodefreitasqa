@@ -1,4 +1,3 @@
-thiagodefreitasqa/README.md
 # Olá, me chamo Thiago!
 ___
 
